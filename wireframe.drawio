@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="-oAJ0LgTMXXzSLjDnsGq" name="Page-1">
+        <mxGraphModel dx="799" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&amp;nbsp; Matt Keplinger&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="790" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="30" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="About" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="30" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Projects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="30" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Contact" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="30" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Welcome!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="378" y="100" width="95" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Welcome Blurb and High Quality Images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="303" y="170" width="245" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 36px&quot;&gt;About me:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="334" y="460" width="183" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Picture of Me" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="338" y="540" width="175" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;h1&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;Gummy bear of CandyCornia&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="750" width="250" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Projects:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="334" y="870" width="183" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Project Placeholder" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="186.5" y="920" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Project Placeholder" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="306.5" y="920" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Project Placeholder" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="426.5" y="920" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Project Placeholder" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="543.5" y="920" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Contact Me:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="307.25" y="1120" width="236.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Fancy Linkedin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="385" y="1180" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Fancy&lt;br&gt;Github" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="385" y="1280" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Image Attribution for Logos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="338" y="1380" width="175" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
