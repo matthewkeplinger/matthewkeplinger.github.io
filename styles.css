@@ -1,5 +1,5 @@
 body {
-    background-color:#E0DBD1;
+    background-color: #E0DBD1;
     background-size: auto;
   }
   h1 {
@@ -143,9 +143,7 @@ body {
     }
 
     /*   */
-
-
-    
+   
       .nav > .nav-links > ul li{
         display: block;
         margin-bottom: 20px;
