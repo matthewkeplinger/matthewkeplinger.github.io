@@ -1,5 +1,7 @@
 body {
     background-color: #E0DBD1;
+    margin: 0px;
+    font-family: 'segoe ui';
   }
   h1 {
     color: black;
@@ -37,12 +39,6 @@ body {
   * {
     box-sizing: border-box;
   }
-  
-  body {
-    margin: 0px;
-    font-family: 'segoe ui';
-  }
-  
   .nav {
     height: 50px;
     width: 100%;
